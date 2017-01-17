@@ -1,0 +1,25 @@
+{
+  "name": "playing_with_vivagraphjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szabof1/playing_with_vivagraphjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szabof1/playing_with_vivagraphjs/issues"
+  },
+  "homepage": "https://github.com/szabof1/playing_with_vivagraphjs#readme",
+  "dependencies": {
+    "ngraph.forcelayout.v2": "0.0.27",
+    "ngraph.graph": "0.0.12",
+    "ngraph.physics.simulator": "^0.1.1",
+    "vivagraphjs": "^0.8.2"
+  }
+}
